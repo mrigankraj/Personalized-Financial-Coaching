@@ -10,5 +10,5 @@ This project provides personalized financial coaching based on individual spendi
 1. Clone the repository:
 
 ```bash
-git clone <repository_url>
+git clone <https://github.com/mrigankraj/Personalized-Financial-Coaching>
 cd personalized_financial_coaching
