@@ -1,0 +1,19 @@
+personalized_financial_coaching/
+│
+├── data/
+│   └── financial_data.csv
+│
+├── src/
+│   ├── __init__.py
+│   ├── algorithms.py
+│   ├── ui.py
+│   └── utils.py
+│
+├── tests/
+│   ├── test_algorithms.py
+│   └── test_ui.py
+│
+├── venv/
+│
+├── README.md
+└── .gitignore
